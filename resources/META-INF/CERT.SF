@@ -1,0 +1,364 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: pBQsut4uwK6ZUKiz1yehZ6QWtks=
+
+Name: res/layout/activity_slide_show.xml
+SHA1-Digest: 5t6n6vovuwf6lo8lWuttLptTTxQ=
+
+Name: res/drawable-hdpi-v4/showimage.png
+SHA1-Digest: JQavxQwd1kX5vl9SQqkSBREqbNI=
+
+Name: res/drawable-mdpi-v4/welcome_enter.png
+SHA1-Digest: oxSzIh8AU4XboFbvj3biq/N9W3g=
+
+Name: org/apache/harmony/awt/internal/nls/messages.properties
+SHA1-Digest: jMwW9jKD0vPqgROM1ZlDu/yYG0c=
+
+Name: res/layout/activity_show_image.xml
+SHA1-Digest: BrBkknlIvfMPsHj9toaKE+QoWGo=
+
+Name: res/layout/list_item.xml
+SHA1-Digest: 2JEwT6BPWQ+TiIzEAS1TevodNo0=
+
+Name: res/drawable-hdpi-v4/video.png
+SHA1-Digest: FnGxaNnQdx+nHtnhS58mOrj2BLc=
+
+Name: res/drawable-xhdpi-v4/newlogo_old.png
+SHA1-Digest: 0N01uddByAkVM/j5QgIm3SdELXk=
+
+Name: javamail.default.providers
+SHA1-Digest: tBRMNiJQTMZ/CZ7f+5bYEhYt+TI=
+
+Name: res/layout/activity_show_video_images.xml
+SHA1-Digest: DIA+fwcsZ6DhxWrZeZYN+48TWHM=
+
+Name: res/drawable-hdpi-v4/welcome.png
+SHA1-Digest: P6JIi0kZTqbp1QJvQMTa/AMRcM4=
+
+Name: res/menu/auto_slide_show.xml
+SHA1-Digest: ReVuWBJt8zhjrUYbEPsbGmTRrsA=
+
+Name: javamail.smtp.address.map
+SHA1-Digest: la7OFR8+1sr/jbW4TcYPhFzpwqs=
+
+Name: res/layout/activity_login.xml
+SHA1-Digest: gzuRnghfGgpk4ofSOcjUIxhxEdg=
+
+Name: res/menu/show_videos.xml
+SHA1-Digest: mTmf517vxKfZquS9aEpjCFHl8wI=
+
+Name: assets/fonts/vivaldi.ttf
+SHA1-Digest: J8e42vXVt/J1lP0hdRymwdPu5u4=
+
+Name: res/drawable-hdpi-v4/ic_launcher_1.png
+SHA1-Digest: 3NOKd8/UX0qbOX77lBSjn4hwcXs=
+
+Name: res/drawable-hdpi-v4/user_icon.png
+SHA1-Digest: O232dX/igv3MRCbA4lLp+F4dOaY=
+
+Name: res/drawable-hdpi-v4/spinner.gif
+SHA1-Digest: fOUeuI6iuXYyYSa4yOPnI/BdXeU=
+
+Name: res/layout/activity_show_options.xml
+SHA1-Digest: Px8ci1hOeYWcs+2eh+HhTRYnc/Q=
+
+Name: res/drawable-xhdpi-v4/foto_title.png
+SHA1-Digest: nrV7aCf9yUb5P7TS38M2oGpM+14=
+
+Name: res/drawable-xxhdpi-v4/showvideo.png
+SHA1-Digest: Q0GOgpyJMorgAn5eANTPH3KkLx4=
+
+Name: res/drawable/password_text_box.xml
+SHA1-Digest: yqivTkOWEY0uGd6yFHHvjyfT5xg=
+
+Name: res/drawable-xhdpi-v4/ic_launcher_1.png
+SHA1-Digest: zijkAHW/8VdlcJwquE4ATsJ7pQQ=
+
+Name: res/layout/activity_show_public_images.xml
+SHA1-Digest: M3RfSxomEgsUGlP6TBzYOvCc4LE=
+
+Name: res/layout/pager_item.xml
+SHA1-Digest: IOhfPUttMsXRtwrrTT4NzUp0d00=
+
+Name: res/drawable-mdpi-v4/blankpage.png
+SHA1-Digest: 1QaLR2Vf2HldxiXAuwj3vpHAYUU=
+
+Name: res/drawable-mdpi-v4/newlogo.png
+SHA1-Digest: 1Mfo9WJNXvnm6S8iD+rlvnP7io4=
+
+Name: resources.arsc
+SHA1-Digest: PBa9rQenFtfNIVng1eCC35CBSO8=
+
+Name: res/drawable-xhdpi-v4/showimage.png
+SHA1-Digest: oDTNI1BKMgoSqEAPIkljU6HsQ08=
+
+Name: res/drawable-xxhdpi-v4/welcome.png
+SHA1-Digest: yC+YobtvL4f9TVqGuRrA8uWPUKw=
+
+Name: mailcap.default
+SHA1-Digest: OEOm9RCN2oyqc/cL3CCUJZmM8Yg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: kSQG6AZ41JLRVLZaJSzZWVm0i64=
+
+Name: javamail.charset.map
+SHA1-Digest: yphd7jCdIMBZfsSI2ilVAOEzZI8=
+
+Name: res/drawable-hdpi-v4/startslideshowbutton.png
+SHA1-Digest: WpzBS/I6641J9I12YX8eVD6F1HE=
+
+Name: res/drawable-hdpi-v4/welcome_enter.png
+SHA1-Digest: AIOhlR3wa/+oXlUGiVXqZyY9U4s=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher_1.png
+SHA1-Digest: hjyTzCfIN19Z7CIJd/mq3OpoR8M=
+
+Name: res/drawable-xxhdpi-v4/bg.png
+SHA1-Digest: Dx7VIoHObw/lhqxl8NpbocTpI0g=
+
+Name: res/drawable-hdpi-v4/blankpage.png
+SHA1-Digest: h+/vXFWQxCqeKLN0ujfm9Fe58I8=
+
+Name: res/drawable-xhdpi-v4/bg.png
+SHA1-Digest: hKhDiWd/J9IDY7cW6fvSEAuHRww=
+
+Name: res/drawable-hdpi-v4/image.png
+SHA1-Digest: aWmcuyJEBpZVzVcE437Ya7I/Z8c=
+
+Name: res/drawable-mdpi-v4/login_button.png
+SHA1-Digest: FC1+j4Ri/yuyRckib/lRUFV/FkU=
+
+Name: res/drawable-xxhdpi-v4/newlogo.png
+SHA1-Digest: FES+Fl+dlt6k6Inam3XuLiS1iaI=
+
+Name: res/drawable-hdpi-v4/login.png
+SHA1-Digest: r+1NlhnSKVYmCukQKCFEntTUJ2U=
+
+Name: res/drawable-xhdpi-v4/welcome.png
+SHA1-Digest: 5q/LGwtjoUFdcZg1W7/5G/hXXzc=
+
+Name: res/menu/show_options.xml
+SHA1-Digest: sTTfxna8bOY68AMnU8bIkdP9oBw=
+
+Name: res/drawable-hdpi-v4/pauseslideshow.png
+SHA1-Digest: E//rMD32eKLiIRMaigeTZOvLAk4=
+
+Name: assets/fonts/Monotype Corsiva.ttf
+SHA1-Digest: UPwUPJxagYn+NotCJgfWxdik2K0=
+
+Name: classes.dex
+SHA1-Digest: adcwjkamFkuLLwMsq8z0CzRDtho=
+
+Name: res/anim/slide_out_right.bak
+SHA1-Digest: LrLXzkxcOM4wued0k/Ks2q+e4H0=
+
+Name: res/drawable-mdpi-v4/demo_album.png
+SHA1-Digest: 77kt05zYty6YHlD2yPNLKo3rDPA=
+
+Name: res/drawable-hdpi-v4/login_button.png
+SHA1-Digest: O0Kkwtv/aiUZkKN/guO54xGhoLQ=
+
+Name: res/drawable-xxhdpi-v4/back_button.png
+SHA1-Digest: CH0Xle8yuMzazACFjFuUv6tpQes=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: eVXxiIWRGiiNghZZUOF+OdnLDN4=
+
+Name: res/drawable-hdpi-v4/demo_album.png
+SHA1-Digest: CoqpD93Q2JJYj/Fpkxm972Hhw/o=
+
+Name: res/menu/contact.xml
+SHA1-Digest: 7Ye/iNd2646q6CbtRWPBuzaqpok=
+
+Name: dsn.mf
+SHA1-Digest: DIMfyAT/elPDToK2wVP94dYzeEg=
+
+Name: res/drawable-xhdpi-v4/video_title.png
+SHA1-Digest: ExTZ5kaQW9fH1pBP8NjYeZlge0Q=
+
+Name: res/drawable-mdpi-v4/welcome.png
+SHA1-Digest: /MtF1CEBKDPO8VFku0gAA+TPQXU=
+
+Name: res/drawable-hdpi-v4/stopslideshowbutton.png
+SHA1-Digest: cg+NhzXtz/T6WAl4xNhHz7NOZIQ=
+
+Name: javamail.imap.provider
+SHA1-Digest: yd9kVPaarUBEmFyZYPyun4oIrlY=
+
+Name: res/drawable-hdpi-v4/error.jpg
+SHA1-Digest: BYDEDKtabyWoq9uF4UYDHDETJOM=
+
+Name: res/drawable-hdpi-v4/showvideo.png
+SHA1-Digest: 5f4IZEoGOhkUd3gH3Fke+UqgxVI=
+
+Name: res/drawable-xxhdpi-v4/welcome_enter.png
+SHA1-Digest: 9iz2fvRgH+AMtsm0zqIH076m+bM=
+
+Name: res/drawable/button_shape.xml
+SHA1-Digest: ucWzHbHxEKKrcV4p0YVFCoXYD8A=
+
+Name: res/drawable-xhdpi-v4/welcome_enter.png
+SHA1-Digest: gJsQYnfj357JK8CZ3UZhsybfn9Y=
+
+Name: res/drawable-xhdpi-v4/back_button.png
+SHA1-Digest: c0crY6hv7rUMtWiMVGBDu6TMOIQ=
+
+Name: res/layout/activity_image.xml
+SHA1-Digest: DjcrxbegbtKohmCs1K6+8W9Mm20=
+
+Name: res/drawable-mdpi-v4/showvideo.png
+SHA1-Digest: gmgz+51tZ8D+foHJ5/q3jzu8jqs=
+
+Name: res/drawable-hdpi-v4/video_title.png
+SHA1-Digest: A4zOrT0vqy1INDEYBPxAbSmPd+s=
+
+Name: res/drawable-mdpi-v4/foto_title.png
+SHA1-Digest: UoC4mZjCcoAeqPqEV/Yzr/t3Y7w=
+
+Name: res/drawable-xhdpi-v4/user_icon.png
+SHA1-Digest: jZ+Ve+wtJfG1lP1JkfgypVdofL4=
+
+Name: res/drawable-mdpi-v4/ic_launcher_1.png
+SHA1-Digest: 5HLoGwHFphIMd/Jw44+vBfwp6bc=
+
+Name: res/anim/fadein.xml
+SHA1-Digest: pzyJtQivkzlJWLmXz596bD69nA4=
+
+Name: res/drawable-xhdpi-v4/newlogo.png
+SHA1-Digest: kphMeVH8Uyp24/7jF2dG524Fm4o=
+
+Name: res/drawable-xxhdpi-v4/user_icon.png
+SHA1-Digest: xOAW0HJsH8mk6U8QZ507AoqqEGM=
+
+Name: res/drawable-xxhdpi-v4/showimage.png
+SHA1-Digest: m2yh5yWKlhLzU04RqU7Johnry1o=
+
+Name: res/drawable-xxhdpi-v4/foto_title.png
+SHA1-Digest: LODVzmviqap9iPKc+dAkt0+Yb3s=
+
+Name: res/drawable-hdpi-v4/pause.png
+SHA1-Digest: Sb8xYBkmn7uEhrCQRreY8JYjO5w=
+
+Name: res/drawable-xhdpi-v4/blankpage.png
+SHA1-Digest: noIB6e42HZUbgS2mcWN9mu6Px8w=
+
+Name: res/drawable-xxhdpi-v4/login_button.png
+SHA1-Digest: 3qXCY3wjqAv+/AXsR1pvfslExi4=
+
+Name: res/drawable-xxhdpi-v4/demo_album.png
+SHA1-Digest: s5rBMqw/XQtBdTSp6FGVFsMvc80=
+
+Name: res/menu/show_image.xml
+SHA1-Digest: EcJ0VJnP36Mlv2zmLCH1SQGMUuc=
+
+Name: res/drawable-mdpi-v4/showimage.png
+SHA1-Digest: W/lvJgZkKKZKQZP3DihuGEAIcog=
+
+Name: com/sun/mail/dsn/mailcap
+SHA1-Digest: adoefGJAcxFZ9c1BCbtMgJDc4uU=
+
+Name: javamail.smtp.provider
+SHA1-Digest: ZX797rIEua0P4b3taBnIScfckNI=
+
+Name: javamail.default.address.map
+SHA1-Digest: v0AMWogtP3iw2he5Ed7ptkfGPSI=
+
+Name: res/drawable-xhdpi-v4/login_button.png
+SHA1-Digest: hsmVwTCGXXSee//ewXqYPb7ZH/U=
+
+Name: res/drawable/login_text_box.xml
+SHA1-Digest: jQJqgRg2vOeUS9vLTLATVzy8ZHQ=
+
+Name: res/drawable-hdpi-v4/back_button.png
+SHA1-Digest: 79UltA6vNGTuc67lyZioQMgswtw=
+
+Name: res/menu/full_image.xml
+SHA1-Digest: e9A3vjlAS1UvWBZk6q69pN7V7eM=
+
+Name: res/drawable-xxhdpi-v4/blankpage.png
+SHA1-Digest: q1tfwFmqHFEcUAlvSf8Gtm2oReQ=
+
+Name: res/drawable-mdpi-v4/video_title.png
+SHA1-Digest: qkt0Ds+gqwv1Oh9VQDKZJdgAU4I=
+
+Name: res/drawable-hdpi-v4/foto_title.png
+SHA1-Digest: 8EIack9/sbaqXIQGobABr7uPLPc=
+
+Name: res/drawable-hdpi-v4/placeholder.jpg
+SHA1-Digest: rz8yrc3phlpYi/tdQh2IBdGUdrs=
+
+Name: res/drawable-hdpi-v4/newlogo.png
+SHA1-Digest: e+dSjMTbaB7SaMaGeWgsJsyZ6Wk=
+
+Name: res/anim/fadeout.xml
+SHA1-Digest: HrryJxaejOba66mOfMTdwVoQjxE=
+
+Name: res/menu/show_video_images.xml
+SHA1-Digest: IvmJ4i4V9KJr9Q7D8UeZX5Y9G9w=
+
+Name: res/drawable-hdpi-v4/play.png
+SHA1-Digest: CGd1YA0ykSdIJ98+Bjb9VA9Jwd8=
+
+Name: res/drawable-xxhdpi-v4/video_title.png
+SHA1-Digest: CkrnTDCTewYVd5vrOXcWKPpIRIQ=
+
+Name: res/drawable-hdpi-v4/logoutbutton.png
+SHA1-Digest: 1XRL46YBteE9Z/6VPXXGmop8Ou0=
+
+Name: assets/html/test.html
+SHA1-Digest: t0KV1KA6PP+YDVry63ZMWENl7lM=
+
+Name: res/drawable-xhdpi-v4/demo_album.png
+SHA1-Digest: 4b9nKUwW/wSeDNZy3dSxM1IIU4c=
+
+Name: res/layout/activity_show_videos.xml
+SHA1-Digest: DphxTfaYQ++FYnd0MVI3PEvbngE=
+
+Name: res/drawable/button_shape2.xml
+SHA1-Digest: /6TXwUs6xX1EGjfXqcYO+XQaZSg=
+
+Name: mailcap
+SHA1-Digest: ydglDriTEt+HQdxQxFQv3cdkxGQ=
+
+Name: res/drawable-mdpi-v4/user_icon.png
+SHA1-Digest: 5NVRqsmZ2Dv01ZsXC1qhdwWpY0I=
+
+Name: mimetypes.default
+SHA1-Digest: LtnD5FLKTeAWyyv18Kx6HHZlDLQ=
+
+Name: res/menu/slide_show.xml
+SHA1-Digest: jwq2atloxtct53n2Ipil+19uPKA=
+
+Name: res/xml/button_shape.xml
+SHA1-Digest: R0iQ6YNCfnlk5H3zO/PEll+YLrM=
+
+Name: res/layout/activity_video.xml
+SHA1-Digest: KOjLE7NIWiPGohs8cmOaKUJ3dQE=
+
+Name: res/menu/main.xml
+SHA1-Digest: xBpxtZeqyDLsbMX/Nf3BhtbWtvg=
+
+Name: res/drawable-mdpi-v4/bg.png
+SHA1-Digest: MEao2Ak/1xqf1DFroGp3wRz+cKQ=
+
+Name: res/layout/activity_auto_slide_show.xml
+SHA1-Digest: UraxFJjv/LVONy7q6ngXm0+ojmc=
+
+Name: res/drawable-xhdpi-v4/showvideo.png
+SHA1-Digest: O75ickrXRB2+mpTV6Dw8MI8NlFQ=
+
+Name: res/menu/show_public_images.xml
+SHA1-Digest: ezMomLaZ/Yg5y4Y9NxWqe0tYXNA=
+
+Name: res/drawable-mdpi-v4/back_button.png
+SHA1-Digest: KNgy71ieotvwRCYWuO8yAsqCzVQ=
+
+Name: res/menu/show_video_demo.xml
+SHA1-Digest: vZaJK22bCggiEgAKHPUkgS/1tCE=
+
+Name: res/drawable-hdpi-v4/bg.png
+SHA1-Digest: QP7oC9976W3oa2VTkTvxafQtxds=
+
+Name: javamail.pop3.provider
+SHA1-Digest: xx7+YzBZJEzUzyad35ichWNPTvY=
+

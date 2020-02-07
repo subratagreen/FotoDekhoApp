@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.fd" platformBuildVersionCode="19" platformBuildVersionName="4.4.2-1456859">
+    <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="19"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <application android:theme="@style/Theme.NoTitleBar.Fullscreen" android:label="@string/app_name" android:icon="@drawable/newlogo" android:allowBackup="true">
+        <activity android:label="@string/app_title" android:name="com.p003fd.MainActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_title" android:name="com.p003fd.ShowOptions" android:screenOrientation="portrait"/>
+        <activity android:label="@string/app_title" android:name="com.p003fd.ShowImage" android:screenOrientation="portrait"/>
+        <activity android:label="@string/app_title" android:name="com.p003fd.ShowVideos" android:screenOrientation="landscape"/>
+        <activity android:label="@string/app_title" android:name=".ShowPublicVideos" android:screenOrientation="landscape"/>
+        <activity android:label="@string/app_title" android:name="com.p003fd.ShowPublicImages" android:screenOrientation="portrait"/>
+        <activity android:label="@string/app_title" android:name=".FullImageActivity" android:screenOrientation="portrait"/>
+        <activity android:label="@string/app_title" android:name="com.p003fd.SlideShowActivity" android:screenOrientation="portrait"/>
+        <activity android:label="@string/app_title" android:name="com.p003fd.AutoSlideShow" android:screenOrientation="portrait"/>
+        <activity android:label="@string/app_title" android:name=".ShowVideoDemo" android:screenOrientation="landscape"/>
+        <activity android:label="@string/app_title" android:name="com.p003fd.ShowVideoImagesActivity" android:screenOrientation="portrait"/>
+        <activity android:label="@string/app_title" android:name=".ShowPublicVideoImagesActivity" android:screenOrientation="portrait"/>
+        <activity android:label="@string/app_title" android:name=".ContactActivity" android:screenOrientation="portrait"/>
+        <activity android:label="@string/app_title" android:name="com.p003fd.LoginActivity" android:screenOrientation="portrait"/>
+        <activity android:label="@string/app_title" android:name="com.p003fd.ImageActivity" android:screenOrientation="portrait"/>
+        <activity android:label="@string/app_title" android:name="com.p003fd.VideoActivity" android:screenOrientation="portrait"/>
+    </application>
+</manifest>

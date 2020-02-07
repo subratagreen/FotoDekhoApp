@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/blankpage" android:paddingLeft="5dp" android:paddingTop="5dp" android:paddingRight="5dp" android:paddingBottom="5dp" android:layout_width="match_parent" android:layout_height="match_parent">
+    <GridView android:gravity="center" android:id="@+id/grid" android:paddingLeft="2dp" android:paddingTop="2dp" android:layout_width="match_parent" android:layout_height="600dp" android:layout_marginTop="90dp" android:layout_marginBottom="15dp" android:listSelector="@android:color/transparent" android:horizontalSpacing="5dp" android:verticalSpacing="5dp" android:stretchMode="columnWidth" android:columnWidth="100dp" android:numColumns="auto_fit" android:layout_alignParentTop="true" android:layout_centerHorizontal="true"/>
+    <Button android:id="@+id/logoutbutton" android:background="@drawable/logoutbutton" android:layout_width="30dp" android:layout_height="30dp" android:layout_marginTop="1dp" android:layout_marginRight="5dp" android:layout_alignParentTop="true" android:layout_alignParentRight="true"/>
+</RelativeLayout>
